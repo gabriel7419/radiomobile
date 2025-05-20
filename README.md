@@ -1,4 +1,4 @@
-# radiomobile
+# RadioMobile
 Aplicativo simples que lista as rádios e suas respectivas frequências. Aplicativo criado para o trabalho do Segundo Bimestre do 5º Período de Sistemas para Internet, matéria de Desenvolvimento Mobile.
 
 Este é um aplicativo Flutter que consome a API pública do [Radio Browser](https://www.radio-browser.info/) para listar estações de rádio brasileiras e permitir ouvir as transmissões ao vivo.
