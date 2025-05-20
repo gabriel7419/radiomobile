@@ -26,3 +26,9 @@ flutter pub get
 
 # Execute o app
 flutter run
+```
+
+### TODO:
+
+1. Permitir que a rádio seja tocada diretamente no aplicativo;
+2. Fazer com que a rádio toque mesmo com o dispositivo desligado;
