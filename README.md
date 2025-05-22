@@ -18,7 +18,7 @@ Este é um aplicativo Flutter que consome a API pública do [Radio Browser](http
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/flutter-radio-brasil.git
+git clone https://github.com/gabriel7419/radiomobile
 cd flutter-radio-brasil
 
 # Instale as dependências
