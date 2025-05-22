@@ -32,3 +32,5 @@ flutter run
 
 1. Permitir que a rádio seja tocada diretamente no aplicativo;
 2. Fazer com que a rádio toque mesmo com o dispositivo desligado;
+3. Criação de um pequeno tutorial para utilização do aplicativo, aos moldes de pop-up;
+4. Possibilidade de monetização do aplicativo;
